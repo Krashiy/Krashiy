@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dimitriy Kravchenko</h1>
 <h3 align="center">I am a beginner web application tester</h3>
-<img aling="left" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif"/>
+<img aling="right" alt="Coding" width="500" src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif"/>
 
 - 🌱 I’m currently learning **Automatization|Manual testing based on Java**
 
